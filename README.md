@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**DiegoPerez107315/DiegoPerez107315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+🤓   **Platzi student Colombia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🔭 I’m currently working on my first project in Platzi
+
+- 🌱 I’m currently learning basic coding and all  about this extraordinay Tec world
+
+- 👯 I’m looking to collaborate on any project that can help me to improve my skills
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DiegoPerez107315/myfirstrepo2)
+
+## How to reach me
+
+- **📫 How to reach me:** [LinkedIn](https://www.linkedin.com/in/diego-zambrano-perez/)
+
+- **Whassapp:** +57 311 308 9407
+
+- **Email:**   dp1073150812@gmail
