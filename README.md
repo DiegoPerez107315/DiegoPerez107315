@@ -12,13 +12,8 @@
 - 👯 I’m looking to collaborate on any project that can help me to improve my skills
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!--RECENT_ACTIVITY: last_update-->
-last_update: Thursday, June 14th, 2025, 6:00:00 PM
-<!--RECENT_ACTIVITY: last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## How to reach me
 
