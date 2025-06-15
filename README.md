@@ -13,14 +13,14 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/DiegoPerez107315](https://github.com/DiegoPerez107315/DiegoPerez107315)<br>
-2. 📔 Created new repository [DiegoPerez107315/DiegoPerez107315](https://github.com/DiegoPerez107315/DiegoPerez107315)<br>
-3. ⬆️ Pushed 2 commit(s) to [DiegoPerez107315/myfirstrepo2](https://github.com/DiegoPerez107315/myfirstrepo2)<br>
-4. ✔️ Closed issue [#4](https://github.com/DiegoPerez107315/myfirstrepo2/issues/4) in [DiegoPerez107315/myfirstrepo2](https://github.com/DiegoPerez107315/myfirstrepo2)<br>
-5. 🎉 Merged PR [#5](https://github.com/DiegoPerez107315/myfirstrepo2/pull/5) in [DiegoPerez107315/myfirstrepo2](https://github.com/DiegoPerez107315/myfirstrepo2)<br>
+1. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/DiegoPerez107315.github.io](https://github.com/DiegoPerez107315/DiegoPerez107315.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/DiegoPerez107315.github.io](https://github.com/DiegoPerez107315/DiegoPerez107315.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/DiegoPerez107315.github.io](https://github.com/DiegoPerez107315/DiegoPerez107315.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/DiegoPerez107315.github.io](https://github.com/DiegoPerez107315/DiegoPerez107315.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/DiegoPerez107315.github.io](https://github.com/DiegoPerez107315/DiegoPerez107315.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 14th, 2025, 10:50:43 PM
+Last Updated: Sunday, June 15th, 2025, 3:42:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## How to reach me
