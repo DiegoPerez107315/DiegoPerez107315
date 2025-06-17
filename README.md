@@ -13,14 +13,14 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/DiegoPerez107315/MyfourthRepoforterminal/issues/1) in [DiegoPerez107315/MyfourthRepoforterminal](https://github.com/DiegoPerez107315/MyfourthRepoforterminal)<br>
-2. ❗️ Opened issue [#1](https://github.com/DiegoPerez107315/MyfourthRepoforterminal/issues/1) in [DiegoPerez107315/MyfourthRepoforterminal](https://github.com/DiegoPerez107315/MyfourthRepoforterminal)<br>
-3. 📔 Created new repository [DiegoPerez107315/MyfourthRepoforterminal](https://github.com/DiegoPerez107315/MyfourthRepoforterminal)<br>
-4. 📔 Created new repository [DiegoPerez107315/MythirdRepoforterminal](https://github.com/DiegoPerez107315/MythirdRepoforterminal)<br>
-5. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/DiegoPerez107315](https://github.com/DiegoPerez107315/DiegoPerez107315)<br>
+1. ✌️ Released [v0.1.0](https://github.com/DiegoPerez107315/forRelease/releases/tag/v0.1.0) in [DiegoPerez107315/forRelease](https://github.com/DiegoPerez107315/forRelease)<br>
+2. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/forRelease](https://github.com/DiegoPerez107315/forRelease)<br>
+3. 📔 Created new repository [DiegoPerez107315/forRelease](https://github.com/DiegoPerez107315/forRelease)<br>
+4. ⬆️ Pushed 3 commit(s) to [DiegoPerez107315/MyfourthRepoforterminal](https://github.com/DiegoPerez107315/MyfourthRepoforterminal)<br>
+5. 🎉 Merged PR [#5](https://github.com/DiegoPerez107315/MyfourthRepoforterminal/pull/5) in [DiegoPerez107315/MyfourthRepoforterminal](https://github.com/DiegoPerez107315/MyfourthRepoforterminal)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 16th, 2025, 1:46:34 PM
+Last Updated: Tuesday, June 17th, 2025, 3:38:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## How to reach me
