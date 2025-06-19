@@ -13,14 +13,14 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/DiegoPerez107315/forRelease/releases/tag/v0.1.0) in [DiegoPerez107315/forRelease](https://github.com/DiegoPerez107315/forRelease)<br>
-2. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/forRelease](https://github.com/DiegoPerez107315/forRelease)<br>
-3. 📔 Created new repository [DiegoPerez107315/forRelease](https://github.com/DiegoPerez107315/forRelease)<br>
-4. ⬆️ Pushed 3 commit(s) to [DiegoPerez107315/MyfourthRepoforterminal](https://github.com/DiegoPerez107315/MyfourthRepoforterminal)<br>
-5. 🎉 Merged PR [#5](https://github.com/DiegoPerez107315/MyfourthRepoforterminal/pull/5) in [DiegoPerez107315/MyfourthRepoforterminal](https://github.com/DiegoPerez107315/MyfourthRepoforterminal)<br>
+1. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/optimizacionAsensor](https://github.com/DiegoPerez107315/optimizacionAsensor)<br>
+2. ⬆️ Pushed 2 commit(s) to [DiegoPerez107315/optimizacionAsensor](https://github.com/DiegoPerez107315/optimizacionAsensor)<br>
+3. 🎉 Merged PR [#1](https://github.com/DiegoPerez107315/optimizacionAsensor/pull/1) in [DiegoPerez107315/optimizacionAsensor](https://github.com/DiegoPerez107315/optimizacionAsensor)<br>
+4. 💪 Opened PR [#1](https://github.com/DiegoPerez107315/optimizacionAsensor/pull/1) in [DiegoPerez107315/optimizacionAsensor](https://github.com/DiegoPerez107315/optimizacionAsensor)<br>
+5. ⬆️ Pushed 1 commit(s) to [DiegoPerez107315/optimizacionAsensor](https://github.com/DiegoPerez107315/optimizacionAsensor)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 18th, 2025, 1:45:48 PM
+Last Updated: Thursday, June 19th, 2025, 3:37:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## How to reach me
